@@ -1,0 +1,33 @@
+.filterheader{
+    height: 35px;
+    background-color: #232F3E;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.filterheader ul{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    list-style: none;
+    gap: 10px;
+    height: 100%;
+    font-size: 13px;
+    cursor: pointer;
+    justify-content: center;
+}
+
+.filterheader ul li{
+    height: 70%;
+    align-items: center;
+    display: flex;
+    gap: 4px;
+    padding: 5px;
+ 
+}
+
+.filterheader ul li:hover{
+    outline: 1px solid white;
+}
