@@ -75,7 +75,7 @@ export default memo(function Header() {
 
         {/* Cart  */}
         <div className='cart'>
-            <img className='cartlogo' src={cart  } alt="" />
+            <img className='cartlogo' src={cart} alt="" />
             <h5 className='carttext'>Cart</h5>
         </div>
     </div>

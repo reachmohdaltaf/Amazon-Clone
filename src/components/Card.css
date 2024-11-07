@@ -3,6 +3,7 @@
     width: 22%;
     height: auto;
     padding: 10px;
+
 }
 
 .title{
@@ -24,6 +25,7 @@
 
 .cardimages img{
    height: 81px;
+   cursor: pointer;
 }
 
 .cardimages span{
@@ -38,6 +40,8 @@
     padding: 20px;
     flex-wrap: wrap;
     gap: 10px;
+    position: absolute;
+    top: 300px;
 }
 
 .card footer{
@@ -50,6 +54,14 @@
     color: #007185;
     text-decoration: none;
 }
+
+.crawler{
+    height: 100px;
+    width: 100%;
+}
+
+
+
 
 
 

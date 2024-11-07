@@ -26,9 +26,10 @@
     background-color: #131921;
     color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     height: 50px;
+    gap: 10px;
     
 }
 

@@ -1,0 +1,13 @@
+.crawler{
+    height: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    box-shadow: inset 10px 10px 10px;   
+}
+
+.crawler img{
+    width: 100%;
+    
+    
+}
